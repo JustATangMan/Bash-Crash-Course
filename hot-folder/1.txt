@@ -1,0 +1,6 @@
+apple
+orange
+banana
+ 
+*******
+1:apple
